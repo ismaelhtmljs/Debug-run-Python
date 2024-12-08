@@ -22,7 +22,7 @@ class Program
                                             |_|    \__, |\__|_| |_|\___/|_| |_|
                                                    |___/       
                     Version : BETA 3.7      BY : Ismaelxd74     github : https://github.com/ismaelhtmljs
-                                        Repositorio del programa : #
+                        Repositorio del programa : https://github.com/ismaelhtmljs/Debug-run-Python
             ");
             Console.ForegroundColor = ConsoleColor.Yellow;
             Console.WriteLine("Para salir coloque 'exit' ");
