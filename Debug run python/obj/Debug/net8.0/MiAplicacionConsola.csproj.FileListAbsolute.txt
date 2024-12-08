@@ -1,0 +1,14 @@
+C:\Users\EQUIPO\Desktop\python\MiAplicacionConsola\bin\Debug\net8.0\MiAplicacionConsola.exe
+C:\Users\EQUIPO\Desktop\python\MiAplicacionConsola\bin\Debug\net8.0\MiAplicacionConsola.deps.json
+C:\Users\EQUIPO\Desktop\python\MiAplicacionConsola\bin\Debug\net8.0\MiAplicacionConsola.runtimeconfig.json
+C:\Users\EQUIPO\Desktop\python\MiAplicacionConsola\bin\Debug\net8.0\MiAplicacionConsola.dll
+C:\Users\EQUIPO\Desktop\python\MiAplicacionConsola\bin\Debug\net8.0\MiAplicacionConsola.pdb
+C:\Users\EQUIPO\Desktop\python\MiAplicacionConsola\obj\Debug\net8.0\MiAplicacionConsola.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EQUIPO\Desktop\python\MiAplicacionConsola\obj\Debug\net8.0\MiAplicacionConsola.AssemblyInfoInputs.cache
+C:\Users\EQUIPO\Desktop\python\MiAplicacionConsola\obj\Debug\net8.0\MiAplicacionConsola.AssemblyInfo.cs
+C:\Users\EQUIPO\Desktop\python\MiAplicacionConsola\obj\Debug\net8.0\MiAplicacionConsola.csproj.CoreCompileInputs.cache
+C:\Users\EQUIPO\Desktop\python\MiAplicacionConsola\obj\Debug\net8.0\MiAplicacionConsola.dll
+C:\Users\EQUIPO\Desktop\python\MiAplicacionConsola\obj\Debug\net8.0\refint\MiAplicacionConsola.dll
+C:\Users\EQUIPO\Desktop\python\MiAplicacionConsola\obj\Debug\net8.0\MiAplicacionConsola.pdb
+C:\Users\EQUIPO\Desktop\python\MiAplicacionConsola\obj\Debug\net8.0\MiAplicacionConsola.genruntimeconfig.cache
+C:\Users\EQUIPO\Desktop\python\MiAplicacionConsola\obj\Debug\net8.0\ref\MiAplicacionConsola.dll
